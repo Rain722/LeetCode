@@ -23,5 +23,5 @@ class Solution:
 
 
 if __name__ == '__main__':
-    slu = Solution();
+    slu = Solution()
     print(slu.twoSum([3,2,4], 6))
